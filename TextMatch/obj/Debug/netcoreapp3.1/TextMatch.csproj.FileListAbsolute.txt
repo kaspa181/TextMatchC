@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TextMatch\TextMatch\bin\Debug\netcoreapp3.1\TextMatch.exe
+C:\Users\User\source\repos\TextMatch\TextMatch\bin\Debug\netcoreapp3.1\TextMatch.deps.json
+C:\Users\User\source\repos\TextMatch\TextMatch\bin\Debug\netcoreapp3.1\TextMatch.runtimeconfig.json
+C:\Users\User\source\repos\TextMatch\TextMatch\bin\Debug\netcoreapp3.1\TextMatch.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextMatch\TextMatch\bin\Debug\netcoreapp3.1\TextMatch.dll
+C:\Users\User\source\repos\TextMatch\TextMatch\bin\Debug\netcoreapp3.1\TextMatch.pdb
+C:\Users\User\source\repos\TextMatch\TextMatch\obj\Debug\netcoreapp3.1\TextMatch.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TextMatch\TextMatch\obj\Debug\netcoreapp3.1\TextMatch.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextMatch\TextMatch\obj\Debug\netcoreapp3.1\TextMatch.AssemblyInfo.cs
+C:\Users\User\source\repos\TextMatch\TextMatch\obj\Debug\netcoreapp3.1\TextMatch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextMatch\TextMatch\obj\Debug\netcoreapp3.1\TextMatch.dll
+C:\Users\User\source\repos\TextMatch\TextMatch\obj\Debug\netcoreapp3.1\TextMatch.pdb
+C:\Users\User\source\repos\TextMatch\TextMatch\obj\Debug\netcoreapp3.1\TextMatch.genruntimeconfig.cache

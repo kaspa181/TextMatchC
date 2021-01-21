@@ -5738,11 +5738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatchUnitTests\\TextMatchUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatchC\\TextMatchUnitTests\\TextMatchUnitTests.csproj",
       "projectName": "TextMatchUnitTests",
-      "projectPath": "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatchUnitTests\\TextMatchUnitTests.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatchC\\TextMatchUnitTests\\TextMatchUnitTests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatchUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatchC\\TextMatchUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5759,8 +5759,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatch\\TextMatch.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatch\\TextMatch.csproj"
+            "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatchC\\TextMatch\\TextMatch.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\TextMatch\\TextMatchC\\TextMatch\\TextMatch.csproj"
             }
           }
         }
